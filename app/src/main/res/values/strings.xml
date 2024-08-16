@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ThreadHandler</string>
+    <string name="get_pokemon">Simulate Server Update</string>
+</resources>
